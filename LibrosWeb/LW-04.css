@@ -138,8 +138,8 @@ div#publicidad {
 /*
 4.5. El lateral formado por el elemento #secundario muestra un borde de 1 píxel y de color #CC6600.
 */
-div#secundario {
-    border: 1px #CC6600 solid !important;
+#contenido #secundario {
+    border: 1px #CC6600 solid;
 }
 
 /*
